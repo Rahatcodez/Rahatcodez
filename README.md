@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am <b>Rahat Gulzar (Senior Ruby on Rails Developer)</b> 💻🔥<br>I ✨ love ✨ building scalable backend systems, solving complex problems, maintainable code. learning new tech stacks, and geeking out over architecture and design 🏛️.<br><br>🔭 I’m currently working on high-performance Rails APIs and React integrations<br>🌱 I’m currently diving deeper into system design<br>👯 I’m looking to collaborate on impactful products and open-source tools<br>💬 Ask me about Rails best practices 🛠️, API design 📦, code optimization 🧠</p>
+<p align="left">I am <b>Senior Full Stack Developer</b> 💻🔥<br>I ✨ love ✨ building scalable web application, solving complex problems, maintainable code. learning new tech stacks, and geeking out over architecture and design 🏛️.<br><br>🔭 I’m currently working on high-performance Rails APIs and React integrations<br>🌱 I’m currently diving deeper into system design<br>👯 I’m looking to collaborate on impactful products and open-source tools<br>💬 Ask me about Rails best practices 🛠️, API design 📦, code optimization 🧠</p>
 
 ###
 
